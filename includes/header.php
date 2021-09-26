@@ -12,10 +12,13 @@
 </head>
 <body>
  <!--message for u love  -->
- <nav class="navbar navbar-dark bg-dark">
+ <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
-    <div class="collapse navbar-collapse" id="navbarNav">
-<h2>Click on the link to jump to the required page</h2>
+    <a class="navbar-brand" href="#">CAAG</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
 <ul class="navbar-nav">
     <li class="nav-item"><a class="nav-link" href="index.php"><b>Home</b></a></li>    
     <li class="nav-item"><a class="nav-link" href='ifstatement.php'>If statements page</a></li>
@@ -27,3 +30,7 @@
     <li class="nav-item"><a class="nav-link" href='datetimemanip.php'>Date and Time Manipulation page</a></li>
     <li class="nav-item"><a class="nav-link" href='functions.php'>Functions page</a></li>
    </ul>
+   </div>
+  </div>
+</nav> 
+<div class="container">
