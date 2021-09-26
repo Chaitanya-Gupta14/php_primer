@@ -12,9 +12,11 @@
 </head>
 <body>
  <!--message for u love  -->
- <div class="container">
+ <nav class="navbar navbar-dark bg-dark">
+  <div class="container-fluid">
+    <div class="collapse navbar-collapse" id="navbarNav">
 <h2>Click on the link to jump to the required page</h2>
-<ul class="nav">
+<ul class="navbar-nav">
     <li class="nav-item"><a class="nav-link" href="index.php"><b>Home</b></a></li>    
     <li class="nav-item"><a class="nav-link" href='ifstatement.php'>If statements page</a></li>
     <li class="nav-item"><a class="nav-link" href='switchstatement.php'>Switch statements page</a></li>
