@@ -15,7 +15,7 @@
  <div class="container">
 <h2>Click on the link to jump to the required page</h2>
 <ul class="nav">
-    <li class="nav-item"><a class="nav-link" href="index.php"><b><:Back:></b></a></li>    
+    <li class="nav-item"><a class="nav-link" href="index.php"><b>Home</b></a></li>    
     <li class="nav-item"><a class="nav-link" href='ifstatement.php'>If statements page</a></li>
     <li class="nav-item"><a class="nav-link" href='switchstatement.php'>Switch statements page</a></li>
     <li class="nav-item"><a class="nav-link" href='forloop.php'>For loop page</a></li>
