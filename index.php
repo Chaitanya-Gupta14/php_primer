@@ -12,7 +12,7 @@ include 'includes/header.php'?>
     <?php
     $name = 'chinyaa!!!';
     echo $name;
-    echo '<br/><h1>Our babys name is: '.$name.'</h1>';
+    echo '<br/><h1>Our babys name is: '.$name.'</h1><br/>';
     ?>
     <!-- This below is the Button -->
     <a class="btn btn-success" href="https://momlovesbest.com/baby-shower-songs" role="button">Celebrate</a>
