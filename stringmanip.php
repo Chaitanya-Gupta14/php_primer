@@ -7,8 +7,7 @@ $phrase1 = 'students who came late in class,';
 $phrase2 = 'stand in end with rock';
 //Concatination
 echo $phrase1 . " ". $phrase2."<br/>";
-echo $phrase1 . " named simon, arya, preet, ". $phrase2.'<br/>';
-echo '<hr>';
+echo $phrase1 . " named simon, arya, preet, ". $phrase2.'<br/><hr>';
 
 //String Transformation
 echo 'Upper case first: '.ucfirst($phrase1).'<br/>';
